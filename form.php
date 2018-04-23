@@ -9,7 +9,7 @@
             <input type="text" placeholder="Name"><br>
             <input type="text" placeholder="Email"><br>
             <input type="text" placeholder="Password"><br>
-            <input type="submit" name="Login" id="Login">
+            <input type="submit" name="Login" id="Login"><br>
         </form>
     </body>
 </html>
