@@ -6,9 +6,9 @@
     </head>
     <body>
         <form action="#">
-            <input type="text" placeholder="Name">
-            <input type="text" placeholder="Email">
-            <input type="text" placeholder="Password">
+            <input type="text" placeholder="Name"><br>
+            <input type="text" placeholder="Email"><br>
+            <input type="text" placeholder="Password"><br>
             <input type="submit" name="Login" id="Login">
         </form>
     </body>
